@@ -12,5 +12,5 @@ appVersion: 9.8.2
 
 dependencies:
 - name: traefik
-  version: 9.8.2
+  version: 9.8.4
   repository: https://helm.traefik.io/traefik
