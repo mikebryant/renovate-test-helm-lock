@@ -3,5 +3,6 @@
     "config:base"
   ],
   "bumpVersion": "patch",
-  "lockFileMaintenance": { "enabled": true, "schedule": ["every weekday"] }
+  "lockFileMaintenance": { "enabled": true, "schedule": ["every weekday"] },
+  "rebaseWhen": "behind-base-branch"
 }
