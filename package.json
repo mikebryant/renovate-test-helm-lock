@@ -1,0 +1,7 @@
+{
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "dependencies": {
+    "renovate": "23.74.0"
+  }
+}
